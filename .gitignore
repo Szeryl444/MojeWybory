@@ -1,33 +1,41 @@
-# Gradle files
-.gradle/
-build/
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moje wybory</title>
+</head>
+<body>
+    <h1>Wstęp</h1>
+    <h2>Krótko o mojej historii</h2>
+    <p>
+        5 lat temu skończyłam szkołę średnią. Byłam wtedy przekonana jaka jest moja ścieżka życiowa...
+        (Add your story here)
+    </p>
+    
+    <h3>Kiedy kończy się „muszę”, a zaczyna „mogę”</h3>
+    <p>
+        W Polskim prawie osoba nieletnia, poniżej 18 roku życia – ma obowiązek nauki...
+        (Add your thoughts here)
+    </p>
 
-# Local configuration file (sdk path, etc)
-local.properties
+    <h3>W stadzie jest bezpieczniej ale trochę tłoczno</h3>
+    <p>
+        W tym momencie często pojawia się decyzyjność zbiorcza...
+        (Add your insights here)
+    </p>
 
-# Log/OS Files
-*.log
+    <h3>Podsumowując</h3>
+    <p>
+        Nie musisz wybierać jednego ale nie możesz też wszystkich...
+        (Conclude your message)
+    </p>
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
+    <p>
+        Dla jasności - nie będzie to poradnik coachingowy typu „Jak mieć idealne życie”...
+        (Add your closing remarks)
+    </p>
 
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+    <p>
+        Jeśli macie jakieś pytania lub temat, który uważacie, że warto rozwinąć piszcie do mnie na mail: <a href="mailto:mojewybory@gmail.com">mojewybory@gmail.com</a> lub Instagram: <a href="https://www.instagram.com/szeryl444/">szeryl444</a>.
+    </p>
+</body>
+</html>
